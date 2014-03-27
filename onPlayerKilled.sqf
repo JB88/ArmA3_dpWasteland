@@ -7,6 +7,8 @@ diag_log format["****** onPlayerKilled Started ******"];
 
 private ["_corpse","_killer"];
 
+//CAD JBorst test2
+
 // Params [<unit>, <killer>]
 _corpse = _this select 0; 	// dead player
 _killer = _this select 1; 	// the killer (could be objNull)
